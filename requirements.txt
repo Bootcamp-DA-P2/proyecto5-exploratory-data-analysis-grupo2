@@ -23,6 +23,7 @@ numpy==2.3.5
 packaging==26.2
 pandas==2.3.3
 parso==0.8.7
+patsy==1.0.2
 pillow==12.2.0
 platformdirs==4.9.6
 prompt_toolkit==3.0.52
@@ -34,10 +35,12 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
 pytz==2025.2
 pyzmq==27.1.0
+scipy==1.17.1
 seaborn==0.13.2
 six==1.17.0
 SQLAlchemy==2.0.44
 stack-data==0.6.3
+statsmodels==0.14.6
 tornado==6.5.5
 traitlets==5.14.3
 typing_extensions==4.15.0
